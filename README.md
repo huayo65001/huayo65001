@@ -1,6 +1,7 @@
 ### Hi there 👋
+---
 #### 🌱 I’m currently learning: jvm
-#### 📫 How to reach me: zhigang_han0521@163.com
+#### 📫 How to reach me: email: zhigang_han0521@163.com wechat: hzg-0521
 #### 💬 Ask me about: studying for a master's degree
 
 <!--
