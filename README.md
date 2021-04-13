@@ -2,7 +2,7 @@
 ### Talk is cheap. Show me the code
 - 🌱 I’m currently learning: air-ground integrated network
 - 📫 How to reach me: zhigang_han0521@163.com
-- 💬 Ask me about: studying for a master's degree
+- 💬 Ask me about: java
 
 <!--
 **Eric-Han0521/Eric-Han0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
