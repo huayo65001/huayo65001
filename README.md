@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Talk is cheap. Show me the code
 - 🌱 I’m currently learning: air-ground integrated network
-- 📫 How to reach me: zhigang_han0521@163.com zhiganghan0521@gmail.com
+- 📫 How to reach me: zhigang_han0521@163.com
 - 💬 Ask me about: studying for a master's degree
 
 <!--
