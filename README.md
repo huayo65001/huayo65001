@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Talk is cheap. Show me the code
-- 🌱 I’m currently learning: air-ground integrated network
+- 🌱 I’m currently learning: database
 - 📫 How to reach me: zhigang_han0521@163.com
-- 💬 Ask me about: java
+- 💬 Ask me about: java、cpp
 
 <!--
 **Eric-Han0521/Eric-Han0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
